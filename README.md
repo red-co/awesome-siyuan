@@ -1,2 +1,2 @@
 # awesome-siyuan
-some useful resources and code snippets
+some useful resources and code snippets for siyuan note.
